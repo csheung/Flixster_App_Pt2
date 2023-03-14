@@ -29,10 +29,9 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <!-- ![](Flixster2.gif) -->
-<img src="Flixster2.gif" width="250" height="470"/>
+<img src="Flixster2.gif" width="250" height="500"/>
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
